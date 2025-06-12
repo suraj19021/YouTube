@@ -48,3 +48,5 @@ Start the client application:
 ``npm run dev``
 
 Open browser and visit `http://localhost:5173` to access the application.
+
+git hub link-https://github.com/suraj19021/YouTube/edit/master/YouTube-clone-MERN-main
